@@ -1,0 +1,1 @@
+import{j as a}from"./index-DRZ-6n4k.js";function r(){return a.jsxs("div",{className:"app-manager",children:[a.jsx("h1",{children:"App Manager"}),a.jsx("p",{children:"Manage your applications here."})]})}export{r as default};
