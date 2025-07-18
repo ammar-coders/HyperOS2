@@ -1,0 +1,1 @@
+import{j as a}from"./index-XVcJtluZ.js";function n(){return a.jsxs("div",{className:"app-manager",children:[a.jsx("h1",{children:"App Manager"}),a.jsx("p",{children:"Manage your applications here."}),"Additional functionality can be added here"]})}export{n as default};
